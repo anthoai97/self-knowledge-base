@@ -1,4 +1,4 @@
-# Example: LLM Inference Cost for a Normal Agentic Application
+# LLM Inference Cost for a Normal Agentic Application
 
 Based on NVIDIA's article: [LLM Inference Benchmarking: How Much Does Your LLM Inference Cost?](https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/)
 
@@ -21,7 +21,7 @@ It also notes that peak **requests per second** is not the same as concurrent us
 
 ---
 
-## 1. Example Application
+## 1. Application
 
 Assume an enterprise has an internal customer-support agent that can:
 
